@@ -1,0 +1,16 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\bin\Debug\net5.0\E3C1 Los primos.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\bin\Debug\net5.0\E3C1 Los primos.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\bin\Debug\net5.0\E3C1 Los primos.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\bin\Debug\net5.0\E3C1 Los primos.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\bin\Debug\net5.0\E3C1 Los primos.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\bin\Debug\net5.0\E3C1 Los primos.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\refint\E3C1 Los primos.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\E3C1 Los primos.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E3C1 Los primos\obj\Debug\net5.0\ref\E3C1 Los primos.dll
