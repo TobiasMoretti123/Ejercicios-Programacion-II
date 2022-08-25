@@ -1,0 +1,16 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\bin\Debug\net5.0\E1C1 Maximo, minimo y promedio.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\bin\Debug\net5.0\E1C1 Maximo, minimo y promedio.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\bin\Debug\net5.0\E1C1 Maximo, minimo y promedio.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\bin\Debug\net5.0\E1C1 Maximo, minimo y promedio.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\bin\Debug\net5.0\E1C1 Maximo, minimo y promedio.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\bin\Debug\net5.0\E1C1 Maximo, minimo y promedio.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\refint\E1C1 Maximo, minimo y promedio.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\E1C1 Maximo, minimo y promedio.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C1 Maximo, minimo y promedio\obj\Debug\net5.0\ref\E1C1 Maximo, minimo y promedio.dll

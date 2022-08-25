@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E2C1 Error al cubo/1.0.0": {
+        "runtime": {
+          "E2C1 Error al cubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E2C1 Error al cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

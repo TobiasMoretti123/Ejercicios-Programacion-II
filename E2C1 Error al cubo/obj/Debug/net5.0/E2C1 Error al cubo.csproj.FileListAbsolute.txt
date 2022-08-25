@@ -1,0 +1,16 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\bin\Debug\net5.0\E2C1 Error al cubo.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\bin\Debug\net5.0\E2C1 Error al cubo.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\bin\Debug\net5.0\E2C1 Error al cubo.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\bin\Debug\net5.0\E2C1 Error al cubo.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\bin\Debug\net5.0\E2C1 Error al cubo.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\bin\Debug\net5.0\E2C1 Error al cubo.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\refint\E2C1 Error al cubo.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\E2C1 Error al cubo.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C1 Error al cubo\obj\Debug\net5.0\ref\E2C1 Error al cubo.dll
