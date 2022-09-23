@@ -1,0 +1,19 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\E1C4 Sumador.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\E1C4 Sumador.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\E1C4 Sumador.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\E1C4 Sumador.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\E1C4 Sumador.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\E1C4 Sumador.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\Biblioteca.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\bin\Debug\net5.0\Biblioteca.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.csproj.CopyComplete
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\refint\E1C4 Sumador.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\E1C4 Sumador.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C4 Sumador\obj\Debug\net5.0\ref\E1C4 Sumador.dll

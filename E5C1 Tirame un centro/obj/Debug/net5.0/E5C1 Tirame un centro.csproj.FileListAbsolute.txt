@@ -1,0 +1,16 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\bin\Debug\net5.0\E5C1 Tirame un centro.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\bin\Debug\net5.0\E5C1 Tirame un centro.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\bin\Debug\net5.0\E5C1 Tirame un centro.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\bin\Debug\net5.0\E5C1 Tirame un centro.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\bin\Debug\net5.0\E5C1 Tirame un centro.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\bin\Debug\net5.0\E5C1 Tirame un centro.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\refint\E5C1 Tirame un centro.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\E5C1 Tirame un centro.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E5C1 Tirame un centro\obj\Debug\net5.0\ref\E5C1 Tirame un centro.dll

@@ -1,0 +1,12 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\bin\Debug\net5.0\Ejercicio Integrador 1.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\bin\Debug\net5.0\Ejercicio Integrador 1.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\bin\Debug\net5.0\Ejercicio Integrador 1.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\refint\Ejercicio Integrador 1.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\Ejercicio Integrador 1.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Ejercicio Integrador 1\obj\Debug\net5.0\ref\Ejercicio Integrador 1.dll

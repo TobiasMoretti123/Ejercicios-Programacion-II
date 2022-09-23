@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E1C3 Creo que necesito un prestamo", "E1C3 Creo que necesito un prestamo.csproj", "{7936409F-14A0-4B02-BACB-83DD5AD7A343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "..\Cuenta\Biblioteca.csproj", "{0FC7B7B0-DBD5-4E98-B612-78F7802F15DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7936409F-14A0-4B02-BACB-83DD5AD7A343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7936409F-14A0-4B02-BACB-83DD5AD7A343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7936409F-14A0-4B02-BACB-83DD5AD7A343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7936409F-14A0-4B02-BACB-83DD5AD7A343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC7B7B0-DBD5-4E98-B612-78F7802F15DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC7B7B0-DBD5-4E98-B612-78F7802F15DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC7B7B0-DBD5-4E98-B612-78F7802F15DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC7B7B0-DBD5-4E98-B612-78F7802F15DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C53E9B-1A69-463C-AF0F-F3AB59E5F746}
+	EndGlobalSection
+EndGlobal

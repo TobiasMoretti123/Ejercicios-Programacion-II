@@ -1,0 +1,19 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\E1C3 Creo que necesito un prestamo.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\E1C3 Creo que necesito un prestamo.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\E1C3 Creo que necesito un prestamo.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\E1C3 Creo que necesito un prestamo.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\E1C3 Creo que necesito un prestamo.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\E1C3 Creo que necesito un prestamo.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\Biblioteca.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\bin\Debug\net5.0\Biblioteca.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.csproj.CopyComplete
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\refint\E1C3 Creo que necesito un prestamo.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\E1C3 Creo que necesito un prestamo.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C3 Creo que necesito un prestamo\obj\Debug\net5.0\ref\E1C3 Creo que necesito un prestamo.dll

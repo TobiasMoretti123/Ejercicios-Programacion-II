@@ -1,0 +1,19 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Main.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Main.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Main.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Main.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Main.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Main.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Ejercicio Integrador 1.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\bin\Debug\net5.0\Ejercicio Integrador 1.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.csproj.CopyComplete
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\refint\Main.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\Main.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\Main\obj\Debug\net5.0\ref\Main.dll

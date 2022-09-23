@@ -1,0 +1,19 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\bin\Debug\net5.0-windows\E1C5 Hola Windows Forms.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\bin\Debug\net5.0-windows\E1C5 Hola Windows Forms.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\bin\Debug\net5.0-windows\E1C5 Hola Windows Forms.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\bin\Debug\net5.0-windows\E1C5 Hola Windows Forms.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\bin\Debug\net5.0-windows\E1C5 Hola Windows Forms.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\bin\Debug\net5.0-windows\E1C5 Hola Windows Forms.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5_Hola_Windows_Forms.FrmSaludar.resources
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5_Hola_Windows_Forms.FrmSaludo.resources
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.csproj.GenerateResource.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\refint\E1C5 Hola Windows Forms.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\E1C5 Hola Windows Forms.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E1C5 Hola Windows Forms\obj\Debug\net5.0-windows\ref\E1C5 Hola Windows Forms.dll

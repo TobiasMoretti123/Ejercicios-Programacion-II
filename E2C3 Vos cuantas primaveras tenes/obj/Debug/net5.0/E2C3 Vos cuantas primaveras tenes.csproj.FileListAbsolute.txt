@@ -1,0 +1,19 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\Biblioteca.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\bin\Debug\net5.0\Biblioteca.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.csproj.CopyComplete
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\refint\E2C3 Vos cuantas primaveras tenes.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\E2C3 Vos cuantas primaveras tenes.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E2C3 Vos cuantas primaveras tenes\obj\Debug\net5.0\ref\E2C3 Vos cuantas primaveras tenes.dll

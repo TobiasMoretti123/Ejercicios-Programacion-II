@@ -1,0 +1,8 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\bin\Debug\E4C1 Un numero perfecto.exe.config
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\bin\Debug\E4C1 Un numero perfecto.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\bin\Debug\E4C1 Un numero perfecto.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\obj\Debug\E4C1 Un numero perfecto.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\obj\Debug\E4C1 Un numero perfecto.csproj.SuggestedBindingRedirects.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\obj\Debug\E4C1 Un numero perfecto.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\obj\Debug\E4C1 Un numero perfecto.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\E4C1 Un numero perfecto\obj\Debug\E4C1 Un numero perfecto.pdb

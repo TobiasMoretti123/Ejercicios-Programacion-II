@@ -1,0 +1,16 @@
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\bin\Debug\net5.0\ExtraC2.exe
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\bin\Debug\net5.0\ExtraC2.deps.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\bin\Debug\net5.0\ExtraC2.runtimeconfig.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\bin\Debug\net5.0\ExtraC2.runtimeconfig.dev.json
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\bin\Debug\net5.0\ExtraC2.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\bin\Debug\net5.0\ExtraC2.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.csproj.AssemblyReference.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.AssemblyInfoInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.AssemblyInfo.cs
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\refint\ExtraC2.dll
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.pdb
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ExtraC2.genruntimeconfig.cache
+D:\Facu\Programacion Laboratorio II\Proyectos\Ejercicios\ExtraC2\obj\Debug\net5.0\ref\ExtraC2.dll

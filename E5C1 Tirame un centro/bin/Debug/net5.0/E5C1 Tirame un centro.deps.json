@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E5C1 Tirame un centro/1.0.0": {
+        "runtime": {
+          "E5C1 Tirame un centro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E5C1 Tirame un centro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
